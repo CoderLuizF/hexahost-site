@@ -36,7 +36,6 @@ nav {
     position: absolute;
     right: 0;
     height: 80px;
-    /* ver sobre line-height */
     line-height: 80px;
     margin: 0;
     display: inline-block;
@@ -45,4 +44,5 @@ nav {
 .navbar-items li {
     display: inline-block;
     text-transform: uppercase;
+    
 }
