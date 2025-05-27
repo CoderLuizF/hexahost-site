@@ -306,3 +306,10 @@ nav {
 .contact-container input[type="submit"]:hover {
   background-color: #18a449;
 }
+
+/* footer */
+footer {
+  text-align: center;
+  font-weight: bold;
+  margin: 20px 0 100px;
+}
